@@ -19,13 +19,6 @@ A modern and responsive car rental landing page built using HTML, CSS, and JavaS
 - HTML5  
 - CSS3  
 - JavaScript  
-
----
-
-## 📸 Screenshots
-
-(Add your project screenshots here)
-
 ---
 
 ## 🚀 Live Demo
@@ -40,7 +33,7 @@ project-folder/
 │── index.html  
 │── style.css  
 │── script.js  
-│── images/  
+│── images 
 
 ---
 
